@@ -24,3 +24,47 @@
 ```bash
 git clone https://github.com/yourusername/AdvancedFileSharingBot.git
 cd AdvancedFileSharingBot
+
+(Optional) Create a virtual environment:
+Copy code
+Bash
+python3 -m venv venv
+source venv/bin/activate
+Install required packages:
+Copy code
+Bash
+pip install -r requirements.txt
+Fill your config.py with your API keys, bot token, channels, and database info.
+Usage
+Run the bot:
+Copy code
+Bash
+python3 bot.py
+Bot will start and connect to Telegram. Ensure your database and Redis are running.
+Subscription Plans
+Plan
+Price (INR)
+Duration
+Basic
+49
+20 days
+Power
+149
+70 days
+Business
+399
+6 months
+Lifetime
+999
+365 days
+Support
+Join our support chat: Support Chat
+Notes
+Make sure to join the required Telegram channels for access.
+Payments are QR / UPI based.
+Configure your environment in config.py before running.
+Copy code
+
+Ye **README.md** copy-paste ke liye ready hai.  
+
+Agla file? `bot.py` banana hai kya?
